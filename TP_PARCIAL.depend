@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1665006965 source:c:\users\rexth\desktop\utn frgp\laboratorio ii\tp parcial\parte 1\tp_parcial\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"Prototipos.h"
+	"ClsFecha.h"
+	"ClsInterprete.h"
+	"ClsGenero.h"
+	"ClsCanciones.h"
+	"Backups.h"
+	"Reportes.h"
+
+1665017157 c:\users\rexth\desktop\utn frgp\laboratorio ii\tp parcial\parte 1\tp_parcial\prototipos.h
+
+1664944141 c:\users\rexth\desktop\utn frgp\laboratorio ii\tp parcial\parte 1\tp_parcial\clsfecha.h
+
+1665013865 c:\users\rexth\desktop\utn frgp\laboratorio ii\tp parcial\parte 1\tp_parcial\clsinterprete.h
+
+1665002643 c:\users\rexth\desktop\utn frgp\laboratorio ii\tp parcial\parte 1\tp_parcial\clscanciones.h
+
+1664929318 c:\users\rexth\desktop\utn frgp\laboratorio ii\tp parcial\parte 1\tp_parcial\clsgenero.h
+
+1665009955 c:\users\rexth\desktop\utn frgp\laboratorio ii\tp parcial\parte 1\tp_parcial\backups.h
+
+1665021740 c:\users\rexth\desktop\utn frgp\laboratorio ii\tp parcial\parte 1\tp_parcial\reportes.h
+
+1665006965 source:c:\users\wal_2\desktop\tp_parcial2\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"Prototipos.h"
+	"ClsFecha.h"
+	"ClsInterprete.h"
+	"ClsGenero.h"
+	"ClsCanciones.h"
+	"Backups.h"
+	"Reportes.h"
+
+1665017157 c:\users\wal_2\desktop\tp_parcial2\prototipos.h
+
+1664944141 c:\users\wal_2\desktop\tp_parcial2\clsfecha.h
+
+1665013865 c:\users\wal_2\desktop\tp_parcial2\clsinterprete.h
+
+1664929318 c:\users\wal_2\desktop\tp_parcial2\clsgenero.h
+
+1665002643 c:\users\wal_2\desktop\tp_parcial2\clscanciones.h
+
+1665009955 c:\users\wal_2\desktop\tp_parcial2\backups.h
+
+1665021740 c:\users\wal_2\desktop\tp_parcial2\reportes.h
+
+1665006965 source:c:\users\wal_2\desktop\proyecto parcial\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"Prototipos.h"
+	"ClsFecha.h"
+	"ClsInterprete.h"
+	"ClsGenero.h"
+	"ClsCanciones.h"
+	"Backups.h"
+	"Reportes.h"
+
+1665017157 c:\users\wal_2\desktop\proyecto parcial\prototipos.h
+
+1664944141 c:\users\wal_2\desktop\proyecto parcial\clsfecha.h
+
+1665013865 c:\users\wal_2\desktop\proyecto parcial\clsinterprete.h
+
+1664929318 c:\users\wal_2\desktop\proyecto parcial\clsgenero.h
+
+1665064269 c:\users\wal_2\desktop\proyecto parcial\clscanciones.h
+
+1665009955 c:\users\wal_2\desktop\proyecto parcial\backups.h
+
+1665066743 c:\users\wal_2\desktop\proyecto parcial\reportes.h
+
+1665006965 source:c:\users\wal_2\desktop\programación\000 proyectos github\proyecto parcial\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"Prototipos.h"
+	"ClsFecha.h"
+	"ClsInterprete.h"
+	"ClsGenero.h"
+	"ClsCanciones.h"
+	"Backups.h"
+	"Reportes.h"
+
+1665017157 c:\users\wal_2\desktop\programación\000 proyectos github\proyecto parcial\prototipos.h
+
+1664944141 c:\users\wal_2\desktop\programación\000 proyectos github\proyecto parcial\clsfecha.h
+
+1665013865 c:\users\wal_2\desktop\programación\000 proyectos github\proyecto parcial\clsinterprete.h
+
+1664929318 c:\users\wal_2\desktop\programación\000 proyectos github\proyecto parcial\clsgenero.h
+
+1665064269 c:\users\wal_2\desktop\programación\000 proyectos github\proyecto parcial\clscanciones.h
+
+1665009955 c:\users\wal_2\desktop\programación\000 proyectos github\proyecto parcial\backups.h
+
+1665066743 c:\users\wal_2\desktop\programación\000 proyectos github\proyecto parcial\reportes.h
+
